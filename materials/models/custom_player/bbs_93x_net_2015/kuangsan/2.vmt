@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\bbs_93x_net_2015\kuangsan\2"
+	"$alphatest" 1
+	"$nocull" 1		
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/kolka/Aiden_Pearce/Aiden_arm_d"
+	"$bumpmap" "models/player/custom_player/kolka/Aiden_Pearce/Aiden_arm_n"
+}

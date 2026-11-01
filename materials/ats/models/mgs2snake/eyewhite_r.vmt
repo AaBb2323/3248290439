@@ -1,0 +1,6 @@
+"eyes"
+{
+	$basetexture ats/models/mgs2snake/eyewhite_r
+	$iris ats/models/mgs2snake/eyeiris_r
+	"$halflambert" 1
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture ats/models/mgs2snake/holstertop_d
+	$halflambert 1
+	$model 1
+}

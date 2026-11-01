@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fate_arcade\saber/moon"
+                "$bumpmap" "models\fate_arcade\saber/moon_n"
+                $color2 "[ 0.7 0.7 0.7 ]"
+	$surfaceprop Flesh
+
+                $normalmapalphaenvmapmask "1"
+
+
+                $lightwarptexture "models\fate_arcade\saber/gold_ramp"
+
+	$translucent 1
+                $nocull 0
+
+	$phong 1
+                "$phongfresnelranges"    "[ 1 1 0.945]"
+	$phongalbedotint 1
+	$phongexponent 10
+	$phongboost 10
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 0.5
+	$rimlightmask 1
+
+
+	$rimmask 1
+}

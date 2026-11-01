@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture ats/models/mgs2snake/hairback_d
+	$halflambert 1
+	$nodecal 1
+	$nocull 1
+	$model 1
+	//$alphatest 1
+	//$alphatestreference 0.1
+	//$allowalphatocoverage
+	$translucent 1
+}

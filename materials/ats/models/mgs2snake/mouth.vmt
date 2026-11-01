@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture ats/models/mgs2snake/mouth_d
-	$halflambert 1
-	$nodecal 1
-	$model 1
-}

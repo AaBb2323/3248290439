@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture ats/models/mgs2snake/footbottom_d
-	$halflambert 1
-	$model 1
-}
